@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="zyc"
+  id="myeclipse.1414552878671"
+  context-root="/zyc"
+  j2ee-spec="5.0"
+  archive="zyc.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
